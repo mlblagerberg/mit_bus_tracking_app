@@ -14,5 +14,6 @@ You will need 4 docker containers:
 ## Local
 - Flask server: A Flask web server that fetches real-time MBTA data, stores it in MySQL, and displays it on a Mapbox-powered UI.
 
-## Interaction Flow
-![Transit App Architecture](images/app_architecture.png)
+## App Architecture
+<img src="images/app_architecture.png" width="400" height="500">
+<!-- ![Transit App Architecture](images/app_architecture.png) -->
