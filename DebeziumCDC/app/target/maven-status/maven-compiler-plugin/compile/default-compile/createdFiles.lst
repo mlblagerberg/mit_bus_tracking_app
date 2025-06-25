@@ -1,0 +1,4 @@
+mit/edu/tv/config/DebeziumConnectorConfig.class
+mit/edu/tv/listener/DebeziumListener.class
+mit/edu/tv/TvApplication.class
+mit/edu/tv/listener/MongoDB.class
